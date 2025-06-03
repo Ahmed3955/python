@@ -1,0 +1,30 @@
+#vowel in capital 
+a="ajkeil"
+op = ['a','e','i','o','u','A','E','I','O','U']
+b=""
+for i in a:
+    if i in op:
+        n =i.upper()
+        b+=n
+    else:
+        b+=i 
+        
+print(b)
+
+#
+a="abcdefghijklmnopqrstuvwxyz"
+sum=0 
+for i in a:
+    sum+=ord(i)-96
+print(sum)
+
+
+a="abcdefghijklmnopqrstuvwxyz"
+b=input()
+res=0
+for i in range(len(a)):
+    if a[i] in b:
+        res+=i+1
+print(res)
+    
+
