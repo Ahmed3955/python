@@ -1,0 +1,8 @@
+#add 0 to end 
+# a=[1,2,0,4,0,0,2]
+# for i in a:
+#     if i==0:
+#         a.remove(0)
+#         a.append(0)
+# print(a)
+
