@@ -1,0 +1,7 @@
+# Enter your code here
+# list_a = [1,2,3,True,0.6]
+# list_a.append(6)
+# print(list_a)
+# print(list_a[:4])
+# print(list_a[2:])
+# print(list_a[2::-1])
