@@ -1,0 +1,11 @@
+# # lamda 
+# a = lambda x,y:x+y 
+# print(a(5,9))
+
+# # #generator
+# def sky(a):
+#     for i in range(a):
+#         yield i 
+# print(list(sky(20)))
+
+
