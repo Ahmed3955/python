@@ -1,0 +1,13 @@
+#vowel
+# a=[1,2,0,4,0,0,2]
+# b=[]
+# c=[]
+# for i in a:
+#     if i!=0:
+#         b+=[i]
+#     else:
+#         c+=[i]
+# b.extend(c)
+# print(b)
+
+
