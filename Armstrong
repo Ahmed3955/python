@@ -1,0 +1,11 @@
+#armstrong
+a=10
+a_str=str(a)
+length=len(a_str)
+sum= 0 
+for num in a_str:
+    sum= sum+int(num)**length
+if sum==a:
+    print("arm")
+else:
+    print("not Arm")
