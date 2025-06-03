@@ -1,0 +1,14 @@
+#Oops
+# class com_lab:
+#     chair=234
+#     ac=5 
+#     def __init__(self,amt):
+#         self.amt=amt 
+#     def return_back(self):
+#         return self.amt
+# raju=com_lab(100)
+# rani=com_lab(10)
+# ramu=com_lab(200)
+# print(com_lab.return_back(ramu))
+# print(com_lab.return_back(rani))
+# print(com_lab.return_back(raju))
