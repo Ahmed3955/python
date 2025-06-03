@@ -1,0 +1,15 @@
+#factorial
+a=6
+fact =1
+for i in range(2,a+1):
+    fact = fact*i 
+print(fact)
+
+#add length
+n=123
+sum=0
+while n:
+    sum+=(n%10)
+    n//=10
+print(sum)
+
