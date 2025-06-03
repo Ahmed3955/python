@@ -1,0 +1,9 @@
+
+#closure
+# def out_fun(x):
+#     def inn_fun(y):
+#         return x+y 
+#     return inn_fun
+# closure=out_fun(45)
+# res=closure(5)
+# print(res)
