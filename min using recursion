@@ -1,0 +1,9 @@
+# #min using recursion
+# def sum(a,i=0):
+#     if i==len(a)-1:
+#         return a[i]
+#     min = sum(a,i+1)
+#     return a[i] if a[i]<min else min 
+# a=[1,5,6,1,0,2]
+# print(sum(a))
+
