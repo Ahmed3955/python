@@ -1,0 +1,56 @@
+#is_prime
+a=8
+count=0
+for i in range(2,a):
+    if n%i==0:
+        print("not prime")
+        break
+    else:
+        print("prime")
+        
+        
+#ISPRIME       
+a=15
+for i in range(2,a+1):
+    prime=0 
+    for j in range(2,i):
+        if(i%j)==0:
+            prime=prime+1 
+    if prime==0:
+        print(i)
+
+a=20
+for i in range(2,a+1):
+    for j in range(2,(i//2)+1):
+        if i%j==0:
+            break 
+    else:
+        print(i,end=" ")
+#primke
+n=2
+count=0
+for i in range(2,(n//2)+1):
+    if n%i==0:
+        print("n p")
+        break
+    else:
+        print("p")
+
+#prime2
+n=2 
+count=0
+for i in range(2,n):
+    if n%i==0:
+        print("np")
+        break 
+    else:
+        print('p')
+#isprime
+a=20
+for i in range(2,a+1):
+    prime=0 
+    for j in range(2,i):
+        if(i%j)==0:
+            prime=prime+1 
+    if prime==0:
+        print(i)
