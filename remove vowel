@@ -1,0 +1,19 @@
+#Remove Vowel 
+
+a="abijeol"
+res=""
+for i in a:
+    if i not in "aeiou":
+        res+=i
+print(res)
+
+#Remove Vowel 
+
+# a='abijeol'
+# op = ['a','e','i','o','u','A','E','I','O','U']
+# b=""
+# for i in a:
+#     if i not in op:
+#         b+=i
+# print(b)
+
